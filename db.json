@@ -1,4 +1,5 @@
-[{
+{
+	"users":[{
 	"id": "A00001",
 	"name": "Sudheep Nair",
 	"company": "Google Inc",
@@ -15,3 +16,4 @@
 	"phone": "+1 777 333 3333",
 	"website": "http://www.microsoft.com"
 }]
+}
